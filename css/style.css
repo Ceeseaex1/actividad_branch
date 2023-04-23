@@ -1,0 +1,16 @@
+.bg-hola{
+    background-color: #2C3D4F!important;
+    color: #ffff;
+}
+.navbar-brand {
+    color: #FFFFFF;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+nav a:hover{
+    color: rgb(0, 243, 101)!important;
+}
+body {
+    font-family: Comic Sans MS;
+}
