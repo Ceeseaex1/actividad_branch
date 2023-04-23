@@ -37,3 +37,26 @@ body {
 .page-section-heading{
     background-color: #19bc9b;
 }
+.page-section1 {
+    padding: 6rem 0;
+}
+.page-section .page-section-heading {
+    font-size: 3rem;
+    line-height: 2.5rem;
+}
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+.form-floating input.form-control, .form-floating textarea.form-control {
+    font-size: 1.5rem;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-radius: 0;
+    border-width: 1px;
+}
+.text-letra{
+    color: #2C3D4F; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
