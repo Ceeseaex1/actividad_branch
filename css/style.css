@@ -14,3 +14,16 @@ nav a:hover{
 body {
     font-family: Comic Sans MS;
 }
+.d-flex{
+    background-color: #19bc9b;
+}
+.masthead{
+    background-color: #19bc9b;
+}
+.masthead-avatar{
+    width: 250;
+}
+
+.masthead-star{
+    width: 300;
+}
