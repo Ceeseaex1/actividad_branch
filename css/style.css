@@ -60,3 +60,19 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 70px;
 }
+
+.footer{
+    background-color: #2C3D4F;
+}
+
+.text-uppercase{
+color: #FFFFFF;
+}
+.lead{
+    color: #FFFFFF;
+}
+.copyright{
+    background-color: #1a252f;
+}
+
+
